@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ニンジャライクニンジャ",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2026-02-21T10:03:47.647914Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニンジャライクニンジャ",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_ニンジャライクニンジャ_ウォルピスカーター.txt"
+    }
+  ]
+}
